@@ -10,7 +10,9 @@
 - Who or what inspires you the most?
 
 ## Mike
-
+- is there any other programming languages that you want to learn?
+- pepsi or coke?
+- what helps you best to concentrate while coding? 
 
 ## Khali
 - Do you have any tips on researching a coding topic that your not familiar with?
