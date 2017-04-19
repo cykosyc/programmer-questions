@@ -6,6 +6,8 @@
 
 ## Josh
 
+- What are the top three skills you wish you had learned before others?
+- Who or what inspires you the most?
 
 ## Mike
 
