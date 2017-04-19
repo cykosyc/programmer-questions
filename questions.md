@@ -7,7 +7,9 @@
 
 
 ## Mike
-
+- is there any other programming languages that you want to learn?
+- pepsi or coke?
+- what helps you best to concentrate while coding?
 
 ## Khali
 
